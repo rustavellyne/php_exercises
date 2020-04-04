@@ -1,0 +1,54 @@
+2020-04-04 12:46:47
+Исключение 0 : Первая точка входа 
+в файле C:\xampp\htdocs\domains\lessons\exception\task1.php 
+в строке  9 
+ 
+ 
+2020-04-04 12:46:47
+Исключение 1 : Bтopaя точка входа 
+в файле C:\xampp\htdocs\domains\lessons\exception\task1.php 
+в строке  11 
+ 
+ 
+2020-04-04 12:46:47
+Исключение 0 : Первая точка входа 
+в файле C:\xampp\htdocs\domains\lessons\exception\task1.php 
+в строке  9 
+ 
+ 
+2020-04-04 12:46:48
+Исключение 1 : Bтopaя точка входа 
+в файле C:\xampp\htdocs\domains\lessons\exception\task1.php 
+в строке  11 
+ 
+ 
+2020-04-04 12:46:48
+Исключение 0 : Первая точка входа 
+в файле C:\xampp\htdocs\domains\lessons\exception\task1.php 
+в строке  9 
+ 
+ 
+2020-04-04 12:46:48
+Исключение 0 : Первая точка входа 
+в файле C:\xampp\htdocs\domains\lessons\exception\task1.php 
+в строке  9 
+ 
+ 
+2020-04-04 12:46:48
+Исключение 1 : Bтopaя точка входа 
+в файле C:\xampp\htdocs\domains\lessons\exception\task1.php 
+в строке  11 
+ 
+ 
+2020-04-04 12:46:48
+Исключение 0 : Первая точка входа 
+в файле C:\xampp\htdocs\domains\lessons\exception\task1.php 
+в строке  9 
+ 
+ 
+2020-04-04 12:46:48
+Исключение 0 : Первая точка входа 
+в файле C:\xampp\htdocs\domains\lessons\exception\task1.php 
+в строке  9 
+ 
+ 
