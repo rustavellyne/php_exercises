@@ -1,54 +1,72 @@
-2020-04-04 12:46:47
-Исключение 0 : Первая точка входа 
+2020-04-04 12:56:50
+Исключение 8 : Undefined variable: arr 
 в файле C:\xampp\htdocs\domains\lessons\exception\task1.php 
-в строке  9 
+в строке  15 
  
  
-2020-04-04 12:46:47
-Исключение 1 : Bтopaя точка входа 
+2020-04-04 12:56:50
+Исключение 8 : Undefined variable: now 
 в файле C:\xampp\htdocs\domains\lessons\exception\task1.php 
-в строке  11 
+в строке  15 
  
  
-2020-04-04 12:46:47
-Исключение 0 : Первая точка входа 
+2020-04-04 12:56:51
+Исключение 8 : Undefined variable: arr 
 в файле C:\xampp\htdocs\domains\lessons\exception\task1.php 
-в строке  9 
+в строке  15 
  
  
-2020-04-04 12:46:48
-Исключение 1 : Bтopaя точка входа 
+2020-04-04 12:56:51
+Исключение 8 : Undefined variable: now 
 в файле C:\xampp\htdocs\domains\lessons\exception\task1.php 
-в строке  11 
+в строке  15 
  
  
-2020-04-04 12:46:48
-Исключение 0 : Первая точка входа 
+2020-04-04 12:56:51
+Исключение 8 : Undefined variable: arr 
 в файле C:\xampp\htdocs\domains\lessons\exception\task1.php 
-в строке  9 
+в строке  15 
  
  
-2020-04-04 12:46:48
-Исключение 0 : Первая точка входа 
+2020-04-04 12:56:51
+Исключение 8 : Undefined variable: now 
 в файле C:\xampp\htdocs\domains\lessons\exception\task1.php 
-в строке  9 
+в строке  15 
  
  
-2020-04-04 12:46:48
-Исключение 1 : Bтopaя точка входа 
+2020-04-04 12:56:52
+Исключение 8 : Undefined variable: arr 
 в файле C:\xampp\htdocs\domains\lessons\exception\task1.php 
-в строке  11 
+в строке  15 
  
  
-2020-04-04 12:46:48
-Исключение 0 : Первая точка входа 
+2020-04-04 12:56:52
+Исключение 8 : Undefined variable: now 
 в файле C:\xampp\htdocs\domains\lessons\exception\task1.php 
-в строке  9 
+в строке  15 
  
  
-2020-04-04 12:46:48
-Исключение 0 : Первая точка входа 
+2020-04-04 12:56:52
+Исключение 8 : Undefined variable: arr 
 в файле C:\xampp\htdocs\domains\lessons\exception\task1.php 
-в строке  9 
+в строке  15 
+ 
+ 
+2020-04-04 12:56:52
+Исключение 8 : Undefined variable: now 
+в файле C:\xampp\htdocs\domains\lessons\exception\task1.php 
+в строке  15 
+ 
+ 
+2020-04-04 12:56:53
+Исключение 8 : Undefined variable: arr 
+в файле C:\xampp\htdocs\domains\lessons\exception\task1.php 
+в строке  15 
+ 
+ 
+2020-04-04 12:56:53
+Исключение 8 : Undefined variable: now 
+в файле C:\xampp\htdocs\domains\lessons\exception\task1.php 
+в строке  15 
  
  
